@@ -17,10 +17,10 @@ $result=mysqli_query($con,$query);
    ?>
 <html>
 <head>
-<body>
+<body background="debug1.jpeg" align="middle" width="100%" height=="100%">
 
 <table align="center" border="2px" bgcolor="#B2FF33">
-<a href="index.html">Index values</a>
+<a href="index1.php"><font size="6" color="orange">Index values</a></font>
 <tr>
 <th colspan="6" bgcolor="grey"><h2>BUGREPORT</h2></th>
 </tr>

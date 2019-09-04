@@ -1,7 +1,7 @@
 <?php
 $hostname="127.0.0.1"; 
 $username="root";  
-$password="12345678";    
+$password="1234";    
 $database="bugreport";  
 $con=mysqli_connect($hostname,$username,$password,$database);
 if(!$con)
